@@ -1,0 +1,15 @@
+.codequestion{
+   width: 30%;
+   margin-top: 0;
+   margin-left: 20px;
+   margin-right: 20px;
+   text-align: left;
+   line-height: 2;
+   float:left;
+   text-align: justify;
+}
+.onlinecompiler{
+    width: 60%;
+    float:right;
+    height: 100%;
+}
